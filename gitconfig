@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = efeldeverd@gmail.com
+	name = Elizabeth Feldeverd
